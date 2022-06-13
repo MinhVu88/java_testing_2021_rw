@@ -1,11 +1,9 @@
-package pluralsight.richard_warburton.java_testing_2021.sec3;
+package pluralsight.richard_warburton.java_testing_2021.sec_3;
 
-import pluralsight.richard_warburton.java_testing_2021.sec_2_3.Cafe;
 import pluralsight.richard_warburton.java_testing_2021.sec_2_3.Coffee;
 import pluralsight.richard_warburton.java_testing_2021.sec_2_3.CoffeeType;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 

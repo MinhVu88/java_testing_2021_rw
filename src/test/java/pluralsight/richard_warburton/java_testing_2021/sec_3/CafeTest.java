@@ -1,4 +1,4 @@
-package pluralsight.richard_warburton.java_testing_2021.sec3;
+package pluralsight.richard_warburton.java_testing_2021.sec_3;
 
 import org.junit.jupiter.api.*;
 import pluralsight.richard_warburton.java_testing_2021.sec_2_3.Cafe;
